@@ -1,3 +1,9 @@
+<form>
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname"><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname">
+</form>
 <h1> Hello, Welcome to Simple DevOps Project !! modified by suresh sanaka first time :)   </h1>
 <h1> Hello, Welcome to Simple DevOps Project !! modified by suresh sanaka second time for checking poll SCM and i will get for sure :)   </h1>
 <h1> Hello, Welcome to Simple DevOps Project !! modified by suresh sanaka 3rd time , and my job is getting executed automatically :)   </h1>
